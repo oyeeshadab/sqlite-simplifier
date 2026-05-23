@@ -46,5 +46,13 @@
       "module",
       "typescript"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oyeeshadab/sqlite-simplifier.git"
+  },
+  "homepage": "https://github.com/oyeeshadab/sqlite-simplifier.git#readme",
+  "bugs": {
+    "url": "https://github.com/oyeeshadab/sqlite-simplifier.git/issues"
   }
 }
