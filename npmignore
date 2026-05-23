@@ -1,0 +1,29 @@
+# Source files
+src/
+
+# Development files
+example/
+.git/
+.github/
+.husky/
+
+# Config files
+.eslintrc.js
+.prettierrc
+tsconfig.json
+babel.config.js
+metro.config.js
+
+# Test files
+__tests__/
+coverage/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# CI/CD
+.travis.yml
+circle.yml
+.gitlab-ci.yml
+.github/workflows/
