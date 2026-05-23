@@ -536,4 +536,12 @@ MIT License
 
 # 👨‍💻 Author
 
-Built with ❤️ for developers who love scalable and clean architecture.
+Made with ❤️ by **Shadab Hussain**
+
+React Native • TypeScript • SQLite • Open Source
+
+### Connect With Me
+
+- GitHub: https://github.com/oyeeshadab
+- LinkedIn: https://www.linkedin.com/in/oye-shadab
+- Portfolio: https://shadabhussain.netlify.app
